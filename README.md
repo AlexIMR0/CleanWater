@@ -1,4 +1,4 @@
-# Clean Water Importance Mapping Code- Orange County, Florida
+# Survay Data Mapping Script- Orange County, Florida
 
 This project aims to visualize the importance of clean water in Orange County, Florida, based on survey data collected at the Orlando Mayor Buddy Dyer's Neighborhood and Community Summit. The data was gathered as part of a traditional town planning class, and the goal is to create a map that displays the perceived importance of clean water across different zip codes in the region.
 
